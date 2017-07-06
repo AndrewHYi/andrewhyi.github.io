@@ -1,0 +1,31 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Andrew H. Yi
+tagline:             Do, Learn, Repeat
+url:                 https://www.andrewhyi.com
+paginate:            5
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Andrew H. Yi
+  url:               https://www.andrewhyi.com
+  email:             andrew.yi50@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:              https://github.com/AndrewHYi
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
