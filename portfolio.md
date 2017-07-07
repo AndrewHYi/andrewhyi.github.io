@@ -3,28 +3,20 @@ layout: page
 title: Portfolio
 ---
 
-<p class="message">
-  Portfolio / Past Work goes here
-</p>
+Currently, the majority of my time is spent building:
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* [Riley & Grey: Luxury Wedding Websites](https://www.rileygrey.com){:target="blank"}
+* [Parcel: Shopping Companion](https://www.thisisparcel.com){:target="blank"}
 
-There are currently two themes built on Poole:
+## Past Work
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I'm no longer working on these projects, but I've had amazing experiences contributing to and working with the following
+companies and projects:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [IvyConnect](http://ivy.com/about){:target="_blank"}
+* [Starbucks Store](http://store.starbucks.com){:target="_blank"}
+* [GenePeeks](http://ivy.com/about){:target="_blank"}
+* [Author: Carol Wall](http://www.carolwall.com){:target="_blank"}
 
-## Setup
+Have questions or suggestions? Feel free to [contact me](mailto:andrew.yi50@gmail.com)
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
