@@ -1,4 +1,4 @@
-$mainRed: #AC4142;
+$mainRed: #580001;
 $white: #FFF;
 
 html {
@@ -26,7 +26,6 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
 }
 
 @media (min-width: 48em) {
@@ -143,6 +142,8 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
+
+/* STYLE OVERRIDES */
 
 /* Red */
 .sidebar {
