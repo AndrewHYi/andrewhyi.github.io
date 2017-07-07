@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Publishing a Jekyll Blog on Github with a custom domain and Cloudflare SSL
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+TODO: Step-by-step instruction on how to setup a jekyll blog, along with hosting on GitHub pages
+and free SSL support using Cloudfare for custom domains.
 
-### Built on Poole
+### TODO: Basic Jekyll setup
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
-
+This is where I'll put the instructions for basic Jekyll blog, along with some helpful screenshots.
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
