@@ -3,10 +3,11 @@ layout: post
 title: Publishing a Jekyll Blog on GitHub Pages with custom (HTTPS) domain
 ---
 
-TODO: Step-by-step instruction on how to setup a jekyll blog, along with hosting on GitHub pages and free SSL support
-using Cloudfare for custom domains.
+Follow along my step-by-step instruction on how to setup a jekyll blog (it's what I did to setup
+this site!), along with hosting on GitHub pages and free SSL support using Cloudfare for custom
+domains.
 
-### TODO: Basic Jekyll setup
+### 1) Setup and create your Jekyll blog
 
 This is where I'll put the instructions for basic Jekyll blog, along with some helpful screenshots.
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example
