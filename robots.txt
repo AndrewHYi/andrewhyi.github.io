@@ -1,0 +1,9 @@
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: *
+Allow: /
+
