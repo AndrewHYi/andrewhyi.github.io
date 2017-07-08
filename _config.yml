@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Andrew H. Yi
-tagline:             Do, Learn, Repeat
-url:                 https://www.andrewhyi.com
+tagline:             Learn, Do, Repeat
+url:                 https://www.andrewyi.xyz
 paginate:            5
 baseurl:             ""
 
@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Andrew H. Yi
-  url:               https://www.andrewhyi.com
+  url:               https://www.andrewyi.xyz
   email:             andrew.yi50@gmail.com
 
 # Custom vars
