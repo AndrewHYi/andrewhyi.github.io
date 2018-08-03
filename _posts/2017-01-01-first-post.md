@@ -26,8 +26,7 @@ equally as important:
   </i>
 </blockquote>
 
-And so, I'm setting myself an "easy" goal of writing at least one post a week (with plans to
-re-evaluate my blogging practices a year from now). Also, although I'm not completely happy with the
+Also, although I'm not completely happy with the
 setup of the blog right now (I have a laundry list of improvements), I'm going to skip the premature
 optimizations and focus on the actual content.
 
