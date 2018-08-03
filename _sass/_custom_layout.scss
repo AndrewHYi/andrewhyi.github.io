@@ -1,3 +1,10 @@
+@mixin transition($transition...) {
+  -moz-transition:    $transition;
+  -o-transition:      $transition;
+  -webkit-transition: $transition;
+  transition:         $transition;
+}
+
 .archived-post {
   .date-container {
     display: inline-block;
@@ -19,4 +26,20 @@
     font-size: 1rem;
   }
 
+}
+
+
+.content a.keep-reading {
+  background: $mainRed;
+  color: white;
+  padding: 0.5em 0.8em;
+  text-decoration: none;
+  transition: background 0.2s;
+  display: block;
+  width: 130px;
+  text-align: center;
+  margin-top: 0.8em;
+  &:hover {
+    background: lighten($mainRed, 10%);
+  }
 }

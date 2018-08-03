@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post, baby!
+excerpt: I've been meaning to start a personal blog for a very long time now, and with the new year starting,I've decided that now is the time to **just do it**.
 ---
 
 <blockquote>

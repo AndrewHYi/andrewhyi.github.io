@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publishing a Jekyll Blog on GitHub Pages with custom (HTTPS) domain
+excerpt: Follow these step-by-step instructions on publishing a Jekyll blog on GitHub Pages (featuring free SSL support using Cloudflare) to get a blog up and running in no time!
 ---
 <div class="message">
   Follow these step-by-step instructions on publishing a Jekyll blog on GitHub Pages (featuring free SSL
