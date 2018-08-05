@@ -6,7 +6,8 @@ title: About
 Hey there! My name is Andrew and I'm a Ruby/JS developer currently serving as Technical Lead at [Riley & Grey](https://www.rileygrey.com){:target="_blank"}, where I work with an awesome team
 dedicated to helping people build beautiful, custom wedding websites.
 
-I'm also part of a team developing an online platform that aims to make shopping more fun and budget-minded at [Parcel]https://www.thisisparcel.com){:target="_blank"} (with accompanying iOS app).
+I'm also part of a team developing an online platform that aims to make shopping more fun and budget-minded at 
+[Parcel](https://www.thisisparcel.com){:target="_blank"} (with accompanying iOS app).
 
 Occasionally, I collaborate with the guys and gals over at digital agency
 [Friends & Family](http://www.friendsandfamily.com).
