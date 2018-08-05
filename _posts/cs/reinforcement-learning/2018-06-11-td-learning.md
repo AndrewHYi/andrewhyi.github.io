@@ -1,7 +1,7 @@
 ---
 layout: post
-title: (WIP) Lunar Lander
-tags: reinforcement-learning, openai-gym
+title: TD learning
+tags: reinforcement-learning, paper-implementation
 published: false
 ---
 

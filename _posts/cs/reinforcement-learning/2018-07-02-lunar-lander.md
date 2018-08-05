@@ -1,7 +1,7 @@
 ---
 layout: post
-title: (WIP) Test3
-tags: reinforcement-learning, openai-gym
+title: "OpenAI Gym: Lunar Lander v2"
+tags: reinforcement-learning, openai, deep-rl
 published: false
 ---
 
