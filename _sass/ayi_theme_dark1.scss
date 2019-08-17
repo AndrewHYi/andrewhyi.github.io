@@ -1,2 +1,28 @@
+$neon-blue: #45d6ff;
+$charcoal-gray: #202020;
+$font-color: #dcdcdc; 
+
+// Base Styling
 html {
+	background: $charcoal-gray;
+	color: $font-color;
+}
+
+p, h1, h2, h3, h4, h5 {
+}
+
+a {
+	color: $neon-blue;
+}
+
+// Override Customd Styling
+a#author-name {
+	color: $font-color;
+}
+
+footer {
+	background: $charcoal-gray;
+	a, a small {
+		color: $font-color;
+	}
 }
