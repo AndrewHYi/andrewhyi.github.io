@@ -6,7 +6,7 @@ pagetype: index
 
 ## Engineer | Developer | Entrepreneur
 
-<div class="bg-img profile-picture-louvre1 bg-img-circle centered"></div>
+<div class="bg-img profile-picture-louvre1  centered"></div>
 
 Ruby/JS dev @ NYC. 
 
