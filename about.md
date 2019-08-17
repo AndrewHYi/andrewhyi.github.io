@@ -1,29 +1,36 @@
 ---
 layout: default
-title: Welcome!
+title: About 
 ---
-
-## About Me
 
 <img class="profile-picture" src="benport.png">
 
-Hello,
+Hey there, I'm Andrew and it's great to meet you!
 
-Hey there! My name is Andrew and I’m a Ruby/JS developer currently serving as Technical Lead at Riley & Grey, where I work with an awesome team dedicated to helping people build beautiful, custom wedding websites.
+I am a graduate of Syracuse University (BS in Economics) and Georgia Tech (MS in Computer Science). Since 2012, I have worked primarily with early-stage startups, building web and mobile applications (with a focus on Ruby/JS).
 
-I’m also part of a team developing an online platform that aims to make shopping more fun and budget-minded at Parcel (with accompanying iOS app).
+Most recently, I served as Technical Lead at [Riley & Grey](https://www.rileygrey.com), where I worked with an awesome team dedicated to helping people build beautiful, custom wedding websites. 
 
-Occasionally, I collaborate with the guys and gals over at digital agency Friends & Family.
+I was also part of the founding team of [Parcel](https://www.thisisparcel.com), developing an online platform aimed to make shopping more fun and budget-oriented.
 
-In my spare time, I’ve been finishing up my Masters degree in Computer Science at Georgia Tech, with a specialization in Machine Learning. (Aiming to complete the program by Summer 2019).
-
-You can learn more about my projects and open source work on my GitHub page. And if you want to catch up on what I’m up to these days, well, this site is the place where you’ll find me rambling about programming and any other discoveries I make.
+I have frequently collaborated with the amazing folks at [Friends & Family Foundry](https://www.friendsfamily.co), where I have worked on building web/mobile applications for various clients, most recently developing for [Starbucks](https://www.starbucks.com), [Ivy](https://www.ivy.com) and [Buildbook](https://www.buildbook.co).
 
 
+You can learn more about my projects and open source work on my [GitHub page](https://www.github.com/AndrewHYi). And if you want to catch up on what I’m up to these days, well, this site is the best place to catch up with what I've been up to. 
+
+I'm always ready for an adventure 😃 - feel free to [contact](/contact) me with interesting dev opportunities @ <andrew.yi50@gmail.com>.
 
 
-TODO: New about
 
-I am currently studying for my B.S. degree in Computer Science at Brooklyn College. The expected graduation date is May 2020. As I am very close to finishing my curriculum, I hope to find an internship at a company that will acclimate me to the tech industry and allow me to mature as a software engineer. In the past semesters, some notable programming courses I have taken are algorithms, data structures, software design, software development, operating systems, and computer architecture.
+## Interests and Hobbies
 
-As for my experience in programming, most of my courses have required me to learn Java, Python, and C/C++. But, I have spent some of my spare time learning to build mobile and web applications, most of which has gone into learning Objective-C and Swift using the Cocoa framework.
+When I'm not coding or daydreaming about new experiences to try out, I spend my time:
+
+- **Learning via MOOCs**: I have a passion for learning. Currently, I am taking additional advanced CS/Stats courses at Georgia Tech as a non-degree seeking student. 
+- **Riding my sick OneWheel skateboard**: If you're in NYC, you might catch me riding on the West Side Highway. Yes it's dangerous, but don't worry, I always wear a helmet.
+- **Hanging out with my dog**: Say hi to Bagel!
+
+## Cool Stuff I've done in the Past
+- Spent two years abroad in Hong Kong / China taking an immersive Mandarin Chinese course at CUHK's [Yale-China Chinese Language Centre](https://www.ycclc.cuhk.edu.hk/default.aspx?pg=home).
+- Worked as a casework volunteer for [Hong Kong Refugee Advice Centre](https://www.justicecentre.org.hk/) (now, Justice Centre Hong Kong), helping refuguees make claims at the UN.
+- Conservation work in New Zealand with [International Student Volunteers](https://globalvolunteers.org/students/).
