@@ -86,24 +86,7 @@
                     {% if page.title %}{{ page.title }}{% endif %}
                 </h1>
                 {{ content }}
-                {% if site.footer == true %}
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 5px">
-                        <a href="{{ site.footer_url }}" style="color: black; text-decoration: none">
-                          <img class="medium-icon" src="./images/github-logo.png" />
-                        </a>
-                        <br>
-                        <a href="{{ site.footer_url }}" style="color: black">
-                          <small>github | ANDREWHYI </small>
-                        </a>                    
-
-                        <div style="text-align: center; margin-bottom: 10px">
-                            <small>© 2019 Andrew H. Yi.</small>
-                            <small>🍎 Made in NYC.</small>
-                        </div>
-                    </p>
-
-                {% endif %}
+                
             </div>
     </div>
     {% if site.tracking_id %}
@@ -117,5 +100,25 @@
         </script>
     {% endif %}
 </body>
-<footer>
-</footer>
+
+{% if site.footer == true %}
+    <footer>
+    <hr />
+    <p style="text-align: center; margin-bottom: 5px">
+        <a href="{{ site.footer_url }}" style="color: black; text-decoration: none">
+          <img class="medium-icon" src="./images/github-logo.png" />
+        </a>
+        <br>
+        <a href="{{ site.footer_url }}" style="color: black">
+          <small>github | ANDREWHYI </small>
+        </a>                    
+
+        <div style="text-align: center; margin-bottom: 10px">
+            <small>© 2019 Andrew H. Yi.</small>
+            <small>🍎 Made in NYC.</small>
+        </div>
+    </p>
+    </footer>
+{% endif %}
+
+

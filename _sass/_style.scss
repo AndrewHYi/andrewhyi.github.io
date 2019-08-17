@@ -13,6 +13,7 @@ body {
     margin: 0;
     font-family: "Inconsolata";
     height: 100%;
+    margin-bottom: 200px; 
 }
 a {
     text-decoration: none;
@@ -97,6 +98,17 @@ hr {
 	display: block;
 	max-height: 100px;
 	text-align: center;
+}
+
+footer {
+    padding-bottom: 1em;
+    background: white;
+    @media (min-width: 800px) {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+    }
 }
 
 /* Mobile */
