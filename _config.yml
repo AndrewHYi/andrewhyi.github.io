@@ -1,33 +1,25 @@
-# Permalinks
-permalink:           pretty
+title: Andrew H. Yi
 
-# Setup
-title:               Andrew H. Yi
-tagline:             Learn, Do, Repeat
-url:                 https://www.andrewyi.xyz
-paginate:            5
-baseurl:             ""
+repository: AndrewHYi/andrewhyi.github.io
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/andrewhyi"
+
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  style: compressed
+  sass_dir: _sass
 
-# About/contact
-author:
-  name:              Andrew H. Yi
-  url:               https://www.andrewyi.xyz
-  email:             andrew.yi50@gmail.com
-
-# Custom vars
-version:             1.0.0
-github:              https://github.com/AndrewHYi
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-
-theme: jekyll-theme-cayman
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Contact"
+    link: "/contact"
