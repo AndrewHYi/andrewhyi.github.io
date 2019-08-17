@@ -1,14 +1,15 @@
 ---
 layout: default
 title: ""
+pagetype: index
 ---
 
 ## Engineer | Developer | Entrepreneur
 
-<img class="profile-picture" src="benport.png">
+<div class="bg-img profile-picture-louvre1 bg-img-circle centered"></div>
 
 Ruby/JS dev @ NYC. 
 
 Recent Georgia Tech grad (MS CS, Aug 2019).
 
-If you want to reach out, the best place to get in touch is my email: <andrew.yi50@gmail.com>
+If you want to reach out, the best method to get in touch is my email: <andrew.yi50@gmail.com>

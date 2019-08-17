@@ -1,0 +1,43 @@
+.bg-img {
+  height: 140px;
+  width: 140px;
+  position: relative;
+  background-size: cover;
+  background-position: center center;
+}
+
+.bg-img-floater {
+  float: right;
+}
+
+.bg-img-circle {
+  border-radius: 50%;
+}
+
+.content .profile-picture {
+    height: 140px;
+    width: 140px;
+    position: relative;
+    margin: -10px 0 0 15px;
+    float: right;
+    border-radius: 50%;
+    p & {
+      padding: 0;
+      margin: 0;
+    }
+    @media (max-width: $small-width) {
+      img {
+          margin-top: -5px;
+      }
+    }
+}
+
+.profile-picture-louvre1 {
+  height: 290px;
+  width: 220px;
+  background-image: url("/images/profile-louvre.jpg");
+}
+
+.profile-picture-louvre2 {
+  background-image: url("/images/profile-louvre2.jpg");
+}

@@ -77,9 +77,9 @@
         <div style="clear:both"></div>
         <hr>
         {% if page.is_contact == true %}
-            <div class="container content contact">
+            <div class="container page-{{ page.pagetype }} content contact">
         {% else %}
-            <div class="container content">
+            <div class="container page-{{ page.pagetype }} content">
         {% endif %}
 
                 <h1 class="header page-title">

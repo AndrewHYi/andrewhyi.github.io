@@ -3,12 +3,11 @@ title: Andrew H. Yi
 repository: AndrewHYi/andrewhyi.github.io
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/andrewhyi"
+footer_url: "https://github.com/AndrewHYi"
 
 sass:
   style: compressed

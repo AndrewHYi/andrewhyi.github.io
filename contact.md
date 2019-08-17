@@ -2,6 +2,7 @@
 layout: default
 title: "Contact Me"
 is_contact: true
+pagetype: contact
 ---
 
 * Email: [andrew.yi50@gmail.com](mailto:andrew.yi50@gmail.com)

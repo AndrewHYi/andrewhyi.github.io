@@ -1,9 +1,10 @@
 ---
 layout: default
 title: About 
+pagetype: about
 ---
 
-<img class="profile-picture" src="benport.png">
+<div class="bg-img profile-picture-louvre2 bg-img-circle bg-img-floater"></div>
 
 Hey there, I'm Andrew and it's great to meet you!
 
