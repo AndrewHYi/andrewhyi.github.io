@@ -1,9 +1,69 @@
 .ayi-projects-container {
-    padding: 1em 1em;
-    background: pink;
+    padding: 1em 0;
     margin-bottom: 1.2em;
 }
 
 .ayi-project {
-    background: green;
+    .project-title {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .project-position {
+        h3 {
+            margin-top: 0.4em;
+            margin-bottom: 1em;
+        }
+    }
+
+    .project-skills {
+        font-size: 0.7rem;
+        ul {
+            padding: 0;
+            list-style-type: none;
+        }
+    }
+
+    .ayi-bullet {
+        
+    }
+
+    .ayi-skill {
+        padding: 4px 13px;
+        border-radius: 12px;
+        display: inline-block;
+    }
+
+    .outer-link {
+        font-size: 1rem;
+    }
+}
+
+
+// skills
+.ayi-skill {
+    &.ruby {
+        color: white;
+        background: #720000;
+    }
+
+    &.javascript {
+        background: #818100;
+    }
+
+    &.rubyonrails {
+        background: #cb0000;
+    }
+
+    &.angularjs {
+        background: #6767fe;
+    }
+
+    &.reactjs {
+        background: #0090b8;
+    }
+
+    &.python {
+    }
+
 }

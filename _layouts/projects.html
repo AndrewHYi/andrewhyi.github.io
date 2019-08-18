@@ -4,10 +4,38 @@ layout: default
 
 {{ content }}
 
-<div class="container ayi-projects-container">
+<div class="ayi-projects-container">
 	{% for project in site.data.projects %}
 		<div class="ayi-project">
-				<p>pewpew {{ project.name }}</p>
+
+			<h2 class="project-title">
+				<a href="{{ project.link }}" target="_blank">{{ project.name }}</a>
+				<a class="outer-link" href="{{ project.link }}" target="_blank">({{ project.link }})</a>
+			</h2>
+
+			<div class="project-position">
+				<h3>{{ project.position }}</h3>
+			</div>
+
+			<div class="project-skills">
+				<ul>
+					{% for skill in project.skills %}
+						<li class="ayi-skill {{ skill | downcase | remove: ' ' }}">
+							{{ skill }}
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+
+			<p>{{ project.description }}</p>
+
+			<div class="ayi-project-bullets">
+				<ul>
+					{% for bullet in project.bullets %}
+						<li class="ayi-bullet">{{ bullet }}</li>
+					{% endfor %}
+				</ul>
+			</div>
 		</div>
 	{% endfor %}
 </div>
