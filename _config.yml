@@ -22,3 +22,6 @@ nav:
     link: "/projects"
   - name: "Contact"
     link: "/contact"
+
+favicon: yes
+favicon_location: "/favicon.ico"
