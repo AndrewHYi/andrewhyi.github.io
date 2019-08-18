@@ -1,0 +1,11 @@
+- name: Riley & Grey
+  link: https://www.rileygrey.com
+  position: Technical Lead / Software Engineer
+  description: "Developed alongside and managed a team of three developers and two designers on features involving website template design and functionality, backend services development/maintenance (API, payments, devops), website hosting, CI/testing/deployment, bug fixing (Ruby on Rails,
+Heroku, JavaScript)."
+  skills: 
+    - Ruby
+    - JavasScript
+    - Ruby on Rails
+    - AngularJS
+    - ReactJS

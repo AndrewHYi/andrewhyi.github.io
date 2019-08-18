@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="container ayi-projects-container">
+	{% for project in site.data.projects %}
+		<div class="ayi-project">
+				<p>pewpew {{ project.name }}</p>
+		</div>
+	{% endfor %}
+</div>
+
+
+<div class="profile-picture-programming"><img src="/images/programming.jpg"/></div>
