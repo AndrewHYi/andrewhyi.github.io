@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Projects"
+title: "Work Experience & Projects"
 pagetype: projects
 ---
 
@@ -55,4 +55,4 @@ Friends & Family is a socially conscious NYC based digital foundry that helps bo
 
 
 
-
+<div class="profile-picture-programming"><img src="/images/programming.jpg"/></div>
