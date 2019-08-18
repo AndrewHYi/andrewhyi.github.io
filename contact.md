@@ -12,4 +12,12 @@ pagetype: contact
 
 ---
 
-Looking for my resume? Check it out [here](/resume.pdf)
+Looking for my resume? Check it out [here](/resume.pdf).
+
+---
+
+<div class="centered blueocean">
+	<img class="test-img" src="./images/myblueocean.jpg">
+	<p>Looking forward to hearing from you!</p>
+</div>
+
