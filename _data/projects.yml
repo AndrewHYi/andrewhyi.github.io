@@ -38,7 +38,7 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
 - name: Friends & Family Foundry
   link: https://www.friendsfamily.co
   position: Software Engineer
-  description: "Friends & Family is a socially conscious NYC based digital foundry that helps both large and small brands build and test new digital ideas extremely quickly. We enable companies to stay ahead of a rapidly changing digital world while empowering them toward a more innovative culture."
+  description: "Friends & Family is a socially conscious NYC based digital foundry that helps both large and small brands build and test new digital ideas extremely quickly, enabling companies to stay ahead of a rapidly changing digital world while empowering them toward a more innovative culture."
   bullets:
     - name: "Buildbook"
       link: "https://www.buildbook.co"
@@ -56,3 +56,60 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
     - AngularJS
     - ReactJS
     - ReactNative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- name: Lunar Lander (OpenAI Gym)
+  link: https://github.com/AndrewHYi/omscs-rl-p2
+  position: CS7642 Reinforcement Learning
+  blurb: "(Prospective Employers: This is private repo. Please contact me for full project report and code)."
+  description: "Trained and analyzed agents using the Double Q-learning algorithm and soft target update rule (Python, Tensorflow/Keras, OpenAI Gym)"
+  skills: 
+    - Python
+    - TensorFlow
+    - Keras
+    - OpenAI Gym
+
+
+
+
+
+- name: Sleep Stage Classification
+  link: https://github.com/AndrewHYi/BD4H-Final-Project
+  position: CS6250 Big Data for Health Informatics
+  blurb: "(Prospective Employers: This is private repo. Please contact me for full project report and code)."
+  description: "Implemented and trained CNNs for single-channel EEG sleep stage classification using the National Sleep Research Institute’s Sleep Heart Health Study datasets."
+  skills: 
+    - Python
+    - Tensorflow
+    - Keras
+    - Numpy
+    - Scikit-learn
+    - Hadoop
+
+
+
+- name: Stereo Correspondence
+  link: https://github.com/AndrewHYi/omscs-cv-ps7final
+  position: CS6476 Computer Vision
+  blurb: "(Prospective Employers: This is private repo. Please contact me for full project report and code)."
+  description: "Implemented and analyzed several window-based stereo correspondence techniques including the sums of squared differences measure and loopy belief propagation (Markov random fields) using the Middlebury Stereo Datasets."
+  skills: 
+    - Python
+    - Numpy

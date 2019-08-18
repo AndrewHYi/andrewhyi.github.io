@@ -17,6 +17,8 @@ layout: default
 				<h3>{{ project.position }}</h3>
 			</div>
 
+
+
 			<div class="project-skills">
 				<ul>
 					{% for skill in project.skills %}
@@ -26,6 +28,10 @@ layout: default
 					{% endfor %}
 				</ul>
 			</div>
+
+			{% if project.blurb %}
+				<p class="project-blurb">{{ project.blurb }}</p>
+			{% endif %}
 
 			<p>{{ project.description }}</p>
 
