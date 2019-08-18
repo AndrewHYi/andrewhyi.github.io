@@ -17,6 +17,17 @@
         margin: 0 auto;
         text-align: center;
     }
+}
 
-    
+.wrapper {
+    &.wrapper-index {
+        footer {
+            @media (min-width: 800px) {
+                position: fixed;
+                width: 100%;
+                bottom: 0;
+                left: 0;
+            }
+        }
+    }
 }

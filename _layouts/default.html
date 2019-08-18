@@ -54,7 +54,7 @@
     {% endif %}
 </head>
 <body>
-    <div class="wrapper">
+    <div class="wrapper wrapper-{{ page.pagetype }}">
         <div class="navbar container">
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
@@ -88,6 +88,27 @@
                 {{ content }}
                 
             </div>
+
+        {% if site.footer == true %}
+            <footer>
+            <hr />
+            <p style="text-align: center; margin-bottom: 5px">
+                <a href="{{ site.footer_url }}" style="color: black; text-decoration: none">
+                  <img class="medium-icon" src="./images/github-logo-inverted.png" />
+                </a>
+                <br>
+                <a href="{{ site.footer_url }}" style="color: black">
+                  <small>github | ANDREWHYI </small>
+                </a>                    
+
+                <div style="text-align: center; margin-bottom: 10px">
+                    <small>© 2019 Andrew H. Yi.</small>
+                    <small>🍎 Made in NYC.</small>
+                </div>
+            </p>
+            </footer>
+        {% endif %}
+
     </div>
     {% if site.tracking_id %}
         <script>
@@ -101,24 +122,5 @@
     {% endif %}
 </body>
 
-{% if site.footer == true %}
-    <footer>
-    <hr />
-    <p style="text-align: center; margin-bottom: 5px">
-        <a href="{{ site.footer_url }}" style="color: black; text-decoration: none">
-          <img class="medium-icon" src="./images/github-logo-inverted.png" />
-        </a>
-        <br>
-        <a href="{{ site.footer_url }}" style="color: black">
-          <small>github | ANDREWHYI </small>
-        </a>                    
-
-        <div style="text-align: center; margin-bottom: 10px">
-            <small>© 2019 Andrew H. Yi.</small>
-            <small>🍎 Made in NYC.</small>
-        </div>
-    </p>
-    </footer>
-{% endif %}
 
 
