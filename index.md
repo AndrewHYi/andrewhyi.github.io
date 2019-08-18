@@ -12,6 +12,6 @@ pagetype: index
 
 Recent Georgia Tech grad (MS CS, Aug 2019).
 
-If you want to reach out, the best method to <br/> get in touch is my email: <andrew.yi50@gmail.com>
+If you want to reach out, the best method to get in touch is my email: <andrew.yi50@gmail.com>
 
 [TLDR @ [resume](/resume.pdf)]
