@@ -1,6 +1,7 @@
 $neon-blue: #45d6ff;
 $charcoal-gray: #202020;
 $font-color: #dcdcdc; 
+$blood-orange: #ff8400;
 
 // Base Styling
 html {
@@ -25,4 +26,10 @@ footer {
 	a, a small {
 		color: $font-color;
 	}
+}
+
+.page-projects {
+  h2 a {
+    color: $blood-orange;
+  }
 }
