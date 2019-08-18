@@ -2,6 +2,7 @@ $neon-blue: #45d6ff;
 $charcoal-gray: #202020;
 $font-color: #dcdcdc; 
 $blood-orange: #ff8400;
+$orange: #ff8400;
 
 // Base Styling
 html {
@@ -32,4 +33,11 @@ footer {
   h2 a {
     color: $blood-orange;
   }
+}
+
+.page-about {
+	.bagel-link {
+	    color: $orange;
+	    font-size: 1.2em;
+	}
 }

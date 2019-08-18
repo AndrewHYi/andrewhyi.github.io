@@ -29,7 +29,7 @@ When I'm not coding or daydreaming about new experiences to try out, I spend my 
 
 - **Learning via MOOCs**: I have a passion for learning. Currently, I am taking additional advanced CS/Stats courses at Georgia Tech as a non-degree seeking student. 
 - **Riding my sick OneWheel skateboard**: If you're in NYC, you might catch me riding on the West Side Highway. Yes it's dangerous, but don't worry, I always wear a helmet.
-- **Hanging out with my Miniature Schnauzer**: I'll let [Bagel](/bagel.html) know you said "hi".
+- **Hanging out with my Miniature Schnauzer**: I'll let <a href="/bagel.html" class="bagel-link">Bagel</a> know you said "hi".
 - **Losing Kaggle competitions**: <https://www.kaggle.com/gtid901938773>
 
 ## Cool Stuff I've done in the Past
