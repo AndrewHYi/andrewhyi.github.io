@@ -8,7 +8,7 @@ pagetype: index
 
 <div class="bg-img profile-picture-louvre1 centered"></div>
 
-Ruby/JS dev @ NYC. 
+## Ruby/JS dev @ NYC. 
 
 Recent Georgia Tech grad (MS CS, Aug 2019).
 
