@@ -78,7 +78,7 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
 - name: Lunar Lander (OpenAI Gym)
   link: https://github.com/AndrewHYi/omscs-rl-p2
   position: CS7642 Reinforcement Learning
-  blurb: "(Prospective Employers: This is private repo. Please contact me for full project report and code)."
+  blurb: "(Prospective Employers: This is a private repo. Please contact me for full project report and code)."
   description: "Trained and analyzed agents using the Double Q-learning algorithm and soft target update rule (Python, Tensorflow/Keras, OpenAI Gym)"
   skills: 
     - Python
@@ -93,7 +93,7 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
 - name: Sleep Stage Classification
   link: https://github.com/AndrewHYi/BD4H-Final-Project
   position: CS6250 Big Data for Health Informatics
-  blurb: "(Prospective Employers: This is private repo. Please contact me for full project report and code)."
+  blurb: "(Prospective Employers: This is a private repo. Please contact me for full project report and code)."
   description: "Implemented and trained CNNs for single-channel EEG sleep stage classification using the National Sleep Research Institute’s Sleep Heart Health Study datasets."
   skills: 
     - Python
@@ -108,7 +108,7 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
 - name: Stereo Correspondence
   link: https://github.com/AndrewHYi/omscs-cv-ps7final
   position: CS6476 Computer Vision
-  blurb: "(Prospective Employers: This is private repo. Please contact me for full project report and code)."
+  blurb: "(Prospective Employers: This is a private repo. Please contact me for full project report and code)."
   description: "Implemented and analyzed several window-based stereo correspondence techniques including the sums of squared differences measure and loopy belief propagation (Markov random fields) using the Middlebury Stereo Datasets."
   skills: 
     - Python
