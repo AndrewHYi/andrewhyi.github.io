@@ -32,11 +32,24 @@ layout: default
 			<div class="ayi-project-bullets">
 				<ul>
 					{% for bullet in project.bullets %}
-						<li class="ayi-bullet">{{ bullet }}</li>
+						
+						{% if bullet.link %}
+							<li class="ayi-bullet">
+								<a href="{{ bullet.link }}">{{ bullet.name }}</a>: {{ bullet.description }}
+							</li>
+						{% else %}
+							<li class="ayi-bullet">
+								{{ bullet.description }}
+							</li>
+						{% endif %}
+
+
 					{% endfor %}
 				</ul>
 			</div>
 		</div>
+
+		<hr class="end-project"/>
 	{% endfor %}
 </div>
 

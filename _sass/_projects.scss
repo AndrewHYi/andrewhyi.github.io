@@ -1,9 +1,14 @@
 .ayi-projects-container {
     padding: 1em 0;
     margin-bottom: 1.2em;
+    .end-project {
+        margin-bottom: 3em;
+        margin-top: 2em;
+    }
 }
 
 .ayi-project {
+
     .project-title {
         margin-top: 0;
         margin-bottom: 0;
@@ -25,13 +30,17 @@
     }
 
     .ayi-bullet {
-        
+        a {
+            text-decoration: underline;
+        }
     }
 
     .ayi-skill {
         padding: 4px 13px;
         border-radius: 12px;
         display: inline-block;
+        background: gray;
+        color: white;
     }
 
     .outer-link {
@@ -61,6 +70,10 @@
 
     &.reactjs {
         background: #0090b8;
+    }
+
+    &.reactnative {
+        background: #53a071;
     }
 
     &.python {
