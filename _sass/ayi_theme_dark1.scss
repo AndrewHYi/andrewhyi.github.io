@@ -1,0 +1,47 @@
+$neon-blue: #45d6ff;
+$charcoal-gray: #202020;
+$font-color: #dcdcdc; 
+$blood-orange: #ff8400;
+$orange: #ff8400;
+
+// Base Styling
+html {
+	background: $charcoal-gray;
+	color: $font-color;
+}
+
+p, h1, h2, h3, h4, h5 {
+}
+
+a {
+	color: $neon-blue;
+}
+
+// Override Customd Styling
+a#author-name {
+	color: $font-color;
+}
+
+footer {
+	background: $charcoal-gray;
+	a, a small {
+		color: $font-color;
+	}
+}
+
+.page-projects {
+  h2 a {
+    color: $blood-orange;
+  }
+
+  .ayi-bullet a {
+    color: $blood-orange;
+  }
+}
+
+.page-about {
+	.bagel-link {
+	    color: $orange;
+	    font-size: 1.2em;
+	}
+}

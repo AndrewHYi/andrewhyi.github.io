@@ -1,0 +1,53 @@
+.container {
+    &.centered {}
+    &.page-index {
+        margin: 0 auto;
+        text-align: center;
+        #engineer--developer--entrepreneur {
+            margin-top: 2em;
+            margin-bottom: 1.6em; 
+        }
+    }
+
+    &.page-about {
+
+    }
+
+    &.page-contact {
+
+    }
+
+    &.page-bagel {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    &.page-contact {
+       .blueocean {
+            padding-top: 1em;
+            padding-bottom: 2em;
+            .test-img {
+                max-width: 420px;
+            }
+       } 
+    }
+
+    &.page-projects {
+        .profile-picture-programming {
+            margin-bottom: 4em;
+        }
+    }
+}
+
+.wrapper {
+    &.wrapper-index {
+        footer {
+            @media (min-width: 800px) {
+                position: fixed;
+                width: 100%;
+                bottom: 0;
+                left: 0;
+            }
+        }
+    }
+}

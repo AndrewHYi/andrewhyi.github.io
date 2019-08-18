@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="ayi-projects-container">
+	{% for project in site.data.projects %}
+		<div class="ayi-project">
+
+			<h2 class="project-title">
+				<a href="{{ project.link }}" target="_blank">{{ project.name }}</a>
+				<a class="outer-link" href="{{ project.link }}" target="_blank">({{ project.link }})</a>
+			</h2>
+
+			<div class="project-position">
+				<h3>{{ project.position }}</h3>
+			</div>
+
+
+
+			<div class="project-skills">
+				<ul>
+					{% for skill in project.skills %}
+						<li class="ayi-skill {{ skill | downcase | remove: ' ' }}">
+							{{ skill }}
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+
+			{% if project.blurb %}
+				<p class="project-blurb">{{ project.blurb }}</p>
+			{% endif %}
+
+			<p>{{ project.description }}</p>
+
+			<div class="ayi-project-bullets">
+				<ul>
+					{% for bullet in project.bullets %}
+						
+						{% if bullet.link %}
+							<li class="ayi-bullet">
+								<a href="{{ bullet.link }}">{{ bullet.name }}</a>: {{ bullet.description }}
+							</li>
+						{% else %}
+							<li class="ayi-bullet">
+								{{ bullet.description }}
+							</li>
+						{% endif %}
+
+
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+
+		<hr class="end-project"/>
+	{% endfor %}
+</div>
+
+
+<div class="profile-picture-programming"><img src="/images/programming.jpg"/></div>

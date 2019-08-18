@@ -1,0 +1,115 @@
+- name: Riley & Grey
+  link: https://www.rileygrey.com
+  position: Technical Lead / Software Engineer
+  description: "Developed alongside and managed a team of three developers and two designers on features involving website template design and functionality, backend services development/maintenance (API, payments, devops), website hosting, CI/testing/deployment, bug fixing (Ruby on Rails,
+Heroku, JavaScript)."
+  bullets:
+    - description: "Architected, developed and successfully launched the company’s first physical product - template-based paper stationary, featuring in-browser stationary editor, proofing/e-commerce systems and backend integration with printing press provider (Ruby on Rails, ReactJS)."
+    - description: "Developed internal customer support tools to automate various time-consuming support related tasks."
+    - description: "Maintained, patched and upgraded all services/systems used in the company’s technology stack (Ruby, Ubuntu, PostgresQL, Redis, etc.)."
+  skills: 
+    - Ruby
+    - JavaScript
+    - Ruby on Rails
+    - AngularJS
+    - ReactJS
+
+
+
+- name: Parcel
+  link: https://www.thisisparcel.com
+  position: Founding Engineer
+  description: "Created an integrated suite of applications including a Chrome browser extension and Web/ iOS apps focused on shopping, featuring: product
+bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, AngularJS, Selenium, Web Scraping).
+."
+  bullets:
+    - name: "Chrome Extension"
+      description: "https://chrome.google.com/webstore/detail/parcel-thisisparcelcom/pghnioflabfoipnhgjncpjeaogckoijf"
+      link: "https://chrome.google.com/webstore/detail/parcel-thisisparcelcom/pghnioflabfoipnhgjncpjeaogckoijf"
+  skills: 
+    - Ruby
+    - Ruby on Rails
+    - JavaScript
+    - AngularJS
+    - Selenium
+
+
+
+- name: Friends & Family Foundry
+  link: https://www.friendsfamily.co
+  position: Software Engineer
+  description: "Friends & Family is a socially conscious NYC based digital foundry that helps both large and small brands build and test new digital ideas extremely quickly, enabling companies to stay ahead of a rapidly changing digital world while empowering them toward a more innovative culture."
+  bullets:
+    - name: "Buildbook"
+      link: "https://www.buildbook.co"
+      description: "Lead team of three developers, architecting and developing RESTful JSON API (Ruby on Rails) and iOS application (ReactNative) featuring: payments, photo uploading, message/media caching, push notifications, fulltext search and project management application endpoints. Developed using TDD and Agile methodologies (RSpec, Swagger)"
+    - name: "Starbucks Store"
+      link: "https://www.starbucks.com"
+      description: "Developed various frontend widgets using ReactJS."
+    - name: "Ivy"
+      link: "https://www.ivy.com"
+      description: "Developed and implemented various frontend/backend features."
+  skills: 
+    - Ruby
+    - Ruby on Rails
+    - JavaScript
+    - AngularJS
+    - ReactJS
+    - ReactNative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- name: Lunar Lander (OpenAI Gym)
+  link: https://github.com/AndrewHYi/omscs-rl-p2
+  position: CS7642 Reinforcement Learning
+  blurb: "(Prospective Employers: This is a private repo. Please contact me for full project report and code)."
+  description: "Trained and analyzed agents using the Double Q-learning algorithm and soft target update rule (Python, Tensorflow/Keras, OpenAI Gym)"
+  skills: 
+    - Python
+    - TensorFlow
+    - Keras
+    - OpenAI Gym
+
+
+
+
+
+- name: Sleep Stage Classification
+  link: https://github.com/AndrewHYi/BD4H-Final-Project
+  position: CS6250 Big Data for Health Informatics
+  blurb: "(Prospective Employers: This is a private repo. Please contact me for full project report and code)."
+  description: "Implemented and trained CNNs for single-channel EEG sleep stage classification using the National Sleep Research Institute’s Sleep Heart Health Study datasets."
+  skills: 
+    - Python
+    - Tensorflow
+    - Keras
+    - Numpy
+    - Scikit-learn
+    - Hadoop
+
+
+
+- name: Stereo Correspondence
+  link: https://github.com/AndrewHYi/omscs-cv-ps7final
+  position: CS6476 Computer Vision
+  blurb: "(Prospective Employers: This is a private repo. Please contact me for full project report and code)."
+  description: "Implemented and analyzed several window-based stereo correspondence techniques including the sums of squared differences measure and loopy belief propagation (Markov random fields) using the Middlebury Stereo Datasets."
+  skills: 
+    - Python
+    - Numpy
