@@ -2,7 +2,7 @@
   link: https://www.rileygrey.com
   position: Technical Lead / Software Engineer
   description: "Developed with and managed a team of three developers and two designers on features involving website template design and functionality,
-backend services development/maintenance (API, payments, DevOps), website hosting, CI/testing/deployment and bug fixing (Ruby on Rails,
+back-end services development/maintenance (API, payments, DevOps), website hosting, CI/testing/deployment and bug fixing (Ruby on Rails,
 JavaScript, Heroku)."
   bullets:
     - description: "Architected, developed and successfully launched the company’s first physical product - template-based paper stationary, featuring in-browser stationary editor, proofing/e-commerce systems and back-end integration with print provider (Ruby on Rails, ReactJS)."
@@ -47,10 +47,10 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
       description: "Lead team of three developers, architecting and developing RESTful JSON API (Ruby on Rails) and iOS application (ReactNative) featuring: payments, photo uploading, message/media caching, push notifications, fulltext search and project management application endpoints. Developed using TDD and Agile methodologies (RSpec, Swagger)"
     - name: "Starbucks Store"
       link: "https://www.starbucks.com"
-      description: "Developed various frontend widgets using ReactJS."
+      description: "Developed various front-end widgets using ReactJS."
     - name: "Ivy"
       link: "https://www.ivy.com"
-      description: "Developed and implemented various frontend/backend features."
+      description: "Developed and implemented various front-end/back-end features."
   skills: 
     - Ruby
     - Ruby on Rails
