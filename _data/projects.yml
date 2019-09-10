@@ -1,12 +1,14 @@
 - name: Riley & Grey
   link: https://www.rileygrey.com
   position: Technical Lead / Software Engineer
-  description: "Developed alongside and managed a team of three developers and two designers on features involving website template design and functionality, backend services development/maintenance (API, payments, devops), website hosting, CI/testing/deployment, bug fixing (Ruby on Rails,
-Heroku, JavaScript)."
+  description: "Developed with and managed a team of three developers and two designers on features involving website template design and functionality,
+backend services development/maintenance (API, payments, DevOps), website hosting, CI/testing/deployment and bug fixing (Ruby on Rails,
+JavaScript, Heroku)."
   bullets:
-    - description: "Architected, developed and successfully launched the company’s first physical product - template-based paper stationary, featuring in-browser stationary editor, proofing/e-commerce systems and backend integration with printing press provider (Ruby on Rails, ReactJS)."
+    - description: "Architected, developed and successfully launched the company’s first physical product - template-based paper stationary, featuring in-browser stationary editor, proofing/e-commerce systems and back-end integration with print provider (Ruby on Rails, ReactJS)."
+    - description: "Developed company’s core products: website hosting, domain provisioning, website templates, and RSVP/guest management."
     - description: "Developed internal customer support tools to automate various time-consuming support related tasks."
-    - description: "Maintained, patched and upgraded all services/systems used in the company’s technology stack (Ruby, Ubuntu, PostgresQL, Redis, etc.)."
+    - description: "Maintained, patched and upgraded all services/systems used in the company’s technology stack (Ruby, Ubuntu, PostgreSQL, Redis, etc.)."
   skills: 
     - Ruby
     - JavaScript
