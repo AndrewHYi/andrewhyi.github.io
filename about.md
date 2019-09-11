@@ -17,7 +17,7 @@ I was also part of the founding team of [Parcel](https://www.thisisparcel.com), 
 I have frequently collaborated with the amazing folks at [Friends & Family Foundry](https://www.friendsfamily.co), where I have worked on building web/mobile applications for various clients, most recently developing applications for [Starbucks](https://www.starbucks.com), [Ivy](https://www.ivy.com) and [BuildBook](https://www.buildbook.co).
 
 
-You can learn more about my projects and open source work on my [GitHub page](https://www.github.com/AndrewHYi). And if you want to catch up on what I’m up to these days, this site is the best place to do that. 
+You can learn more about my projects and open source work on my [GitHub](https://www.github.com/AndrewHYi) or [GitLab](https://www.gitlab.com/AndrewHYi) pages. And if you want to catch up on what I’m up to these days, this site is the best place to do that. 
 
 I'm always ready for an adventure 😃, so feel free to [contact](/contact) me with interesting dev opportunities @ <andrew.yi50@gmail.com>.
 
