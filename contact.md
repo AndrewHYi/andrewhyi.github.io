@@ -7,7 +7,8 @@ pagetype: contact
 
 * Email: [andrew.yi50@gmail.com](mailto:andrew.yi50@gmail.com)
 * LinkedIn: <https://www.linkedin.com/in/andrewhyi>
-* GitHub: <https://github.com/AndrewHYi/>
+* GitHub: <https://github.com/AndrewHYi>
+* GitLab: <https://gitlab.com/AndrewHYi>
 <!-- * Phone: [+1-6467840102](tel:+1-6467840102) -->
 
 ---
