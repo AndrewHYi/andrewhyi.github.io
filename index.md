@@ -4,7 +4,7 @@ title: ""
 pagetype: index
 ---
 
-## Engineer | Developer | Entrepreneur
+## Software Engineer
 
 <div class="bg-img profile-picture-louvre1 centered"></div>
 
