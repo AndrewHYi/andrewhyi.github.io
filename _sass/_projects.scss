@@ -1,5 +1,6 @@
 .ayi-projects-container {
     padding: 1em 0;
+
     .end-project {
         margin-bottom: 3em;
         margin-top: 2em;
@@ -22,12 +23,13 @@
 
     .project-skills {
         font-size: 0.7rem;
+
         ul {
             padding: 0;
             list-style-type: none;
         }
     }
-    
+
     .project-blurb {
         font-style: italic;
         font-size: 0.8em;
@@ -35,6 +37,7 @@
 
     .ayi-bullet {
         word-break: break-all;
+
         a {
             text-decoration: underline;
         }
@@ -81,7 +84,18 @@
         background: #53a071;
     }
 
-    &.python {
+    &.ember {
+        background: #FF5722;
     }
+
+    &.typescript {
+        background: #265561;
+    }
+
+    &.graphql {
+        background: #fa4dbd;
+    }
+
+    &.python {}
 
 }

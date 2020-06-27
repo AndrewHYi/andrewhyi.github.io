@@ -1,3 +1,17 @@
+- name: CivicPlus (SeeClickFix Division)
+  link: https://www.seeclickfix.com
+  position: Software Engineer
+  description: "Developed municipal geospatial issue management software on the web team."
+  bullets:
+    - description: "Developed company’s core SaaS products with a strong emphasis on Agile Methodologies, Test Driven Development, Pair Programming, and sustainable/clean architecture"
+  skills:
+    - Ruby
+    - Ruby on Rails
+    - JavaScript
+    - TypeScript
+    - Ember
+    - GraphQL
+
 - name: Riley & Grey
   link: https://www.rileygrey.com
   position: Technical Lead / Software Engineer
@@ -7,7 +21,7 @@
     - description: "Developed company’s core products: website hosting, domain provisioning, website templates, and RSVP/guest management."
     - description: "Developed internal customer support tools to automate various time-consuming support related tasks."
     - description: "Maintained, patched and upgraded all services/systems used in the company’s technology stack (Ruby, Ubuntu, PostgreSQL, Redis, etc.)."
-  skills: 
+  skills:
     - Ruby
     - JavaScript
     - Ruby on Rails
@@ -26,7 +40,7 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
     - name: "Chrome Extension"
       description: "https://chrome.google.com/webstore/detail/parcel-thisisparcelcom/pghnioflabfoipnhgjncpjeaogckoijf"
       link: "https://chrome.google.com/webstore/detail/parcel-thisisparcelcom/pghnioflabfoipnhgjncpjeaogckoijf"
-  skills: 
+  skills:
     - Ruby
     - Ruby on Rails
     - JavaScript
@@ -49,7 +63,7 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
     - name: "Ivy"
       link: "https://www.ivy.com"
       description: "Developed and implemented various front-end/back-end features."
-  skills: 
+  skills:
     - Ruby
     - Ruby on Rails
     - JavaScript
@@ -80,7 +94,7 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
   position: CS7642 Reinforcement Learning
   blurb: "(Prospective Employers: This is the truncated, redacted version of the project. Please contact me at andrew.yi50@gmail.com for full project report and code.)"
   description: "Trained and analyzed agents using the Double Q-learning algorithm and soft target update rule (Python, Tensorflow/Keras, OpenAI Gym)"
-  skills: 
+  skills:
     - Python
     - TensorFlow
     - Keras
@@ -95,7 +109,7 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
   position: CS6250 Big Data for Health Informatics
   blurb: "(Prospective Employers: This is the truncated, redacted version of the project. Please contact me at andrew.yi50@gmail.com for full project report and code.)"
   description: "Implemented and trained CNNs for single-channel EEG sleep stage classification using the National Sleep Research Institute’s Sleep Heart Health Study datasets."
-  skills: 
+  skills:
     - Python
     - Tensorflow
     - Keras
@@ -110,6 +124,6 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
   position: CS6476 Computer Vision
   blurb: "(Prospective Employers: This is the truncated, redacted version of the project. Please contact me at andrew.yi50@gmail.com for full project report and code.)"
   description: "Implemented and analyzed several window-based stereo correspondence techniques including the sums of squared differences measure and loopy belief propagation (Markov random fields) using the Middlebury Stereo Datasets."
-  skills: 
+  skills:
     - Python
     - Numpy
