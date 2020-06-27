@@ -10,7 +10,7 @@ Hey there, I'm Andrew and it's great to meet you!
 
 I am a graduate of Syracuse University (BS in Economics) and Georgia Tech (MS in Computer Science). Since 2013, I have worked primarily with early-stage startups, building web and mobile applications (with a focus on Ruby/JS).
 
-Currently I'm a software engineer part of an awesome team at [CivicPlus](https://www.civicplus.com), working on a geospatial SaaS platform with the [SeeClickFix](https://www.seeclickfix.com) team
+Currently I'm a software engineer part of an awesome team at [CivicPlus](https://www.civicplus.com), working on a geospatial SaaS platform with the [SeeClickFix](https://www.seeclickfix.com) team.
 
 In the past, I've served as Technical Lead at [Riley & Grey](https://www.rileygrey.com), where I worked with an awesome group of folks dedicated to helping people build beautiful, custom wedding websites.
 
