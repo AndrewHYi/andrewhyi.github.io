@@ -8,20 +8,17 @@ pagetype: about
 
 Hey there, I'm Andrew and it's great to meet you!
 
-I am a graduate of Syracuse University (BS in Economics) and Georgia Tech (MS in Computer Science). Since 2013, I have worked primarily with early-stage startups, building web and mobile applications (with a focus on Ruby/JS).
+I am a graduate of Syracuse University (BS in Economics) and Georgia Tech (MS in Computer Science). Since 2013, I have worked in various capacities as a software engineer and team lead with companies of varying sizes, building web and mobile applications (with a focus on Ruby and JavaScript).
 
-Currently I'm a software engineer part of an awesome team at [CivicPlus](https://www.civicplus.com), working on a geospatial SaaS platform with the [SeeClickFix](https://www.seeclickfix.com) team.
+Currently I'm part of an amazing team as Lead Software Engineer at [CivicPlus](https://www.civicplus.com), working on a geospatial SaaS platform with the [SeeClickFix](https://www.seeclickfix.com) team.
 
 In the past, I've served as Technical Lead at [Riley & Grey](https://www.rileygrey.com), where I worked with an awesome group of folks dedicated to helping people build beautiful, custom wedding websites.
 
-I was also part of the founding team of [Parcel](https://www.thisisparcel.com), developing an online platform aimed to make shopping more fun and budget-oriented.
-
 I have frequently collaborated with the amazing folks at [Friends & Family Foundry](https://www.friendsfamily.co), where I have worked on building web/mobile applications for various clients, most recently developing applications for [Starbucks](https://www.starbucks.com), [Ivy](https://www.ivy.com) and [BuildBook](https://www.buildbook.co).
-
 
 You can learn more about my projects and open source work on my [GitHub](https://www.github.com/AndrewHYi) or [GitLab](https://www.gitlab.com/AndrewHYi) pages. And if you want to catch up on what I’m up to these days, this site is the best place to do that.
 
-I'm always ready for an adventure 😃, so feel free to [contact](/contact) me with interesting dev opportunities @ <andrew.yi50@gmail.com>.
+I'm always ready for new adventures 😃, so feel free to [contact](/contact) me with interesting dev opportunities @ <andrew.yi50@gmail.com>.
 
 
 
@@ -29,8 +26,8 @@ I'm always ready for an adventure 😃, so feel free to [contact](/contact) me w
 
 When I'm not coding or daydreaming about tech, I spend my time:
 
-- **Learning via MOOCs**: I have a passion for learning. Currently, I am taking additional advanced CS/Stats courses at Georgia Tech as a non-degree seeking student.
-- **Riding my sick OneWheel skateboard**: If you're in NYC, you might catch me riding on the West Side Highway. Yes it's dangerous, but don't worry, I always wear a helmet.
+- **Continuous Learning**: Currently, I am focusing on building my AWS knowledge and skills, recently acquiring two certifications: AWS Certified Cloud Practitioner and AWS Certified Solutions Architect (Associate).
+- **Riding my OneWheel skateboard**: If you're in Honolulu, you might catch me riding near the beach 🤙. Don't worry, I always wear a helmet.
 - **Hanging out with my Miniature Schnauzer**: I'll let <a href="/bagel.html" class="bagel-link">Bagel</a> know you said "hi".
 - **Losing Kaggle competitions**: <https://www.kaggle.com/gtid901938773>
 
