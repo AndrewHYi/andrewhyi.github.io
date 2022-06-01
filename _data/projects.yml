@@ -1,6 +1,6 @@
-- name: CivicPlus (SeeClickFix Division)
-  link: https://www.seeclickfix.com
-  position: Software Engineer
+- name: CivicPlus
+  link: https://www.civicplus.com
+  position: Lead Software Engineer / Senior Software Engineer
   description: "Developed municipal geospatial issue management software on the web team."
   bullets:
     - description: "Developed company’s core SaaS products with a strong emphasis on Agile Methodologies, Test Driven Development, Pair Programming, and sustainable/clean architecture"
