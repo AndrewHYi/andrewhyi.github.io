@@ -10,7 +10,7 @@ pagetype: index
 
 ## Ruby/JS Developer
 
-Currently located in Hawaii and interested in remote opportunities only.
+Interested in remote opportunities only 😊
 
 If you want to reach out, the best method to get in touch is my email: <andrew.yi50@gmail.com>.
 
