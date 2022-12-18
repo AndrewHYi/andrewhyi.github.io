@@ -18,7 +18,7 @@ I have frequently collaborated with the amazing folks at [Friends & Family Found
 
 You can learn more about my projects and open source work on my [GitHub](https://www.github.com/AndrewHYi) or [GitLab](https://www.gitlab.com/AndrewHYi) pages. And if you want to catch up on what I’m up to these days, this site is the best place to do that.
 
-I'm always ready for new adventures 😃, so feel free to [contact](/contact) me with interesting dev opportunities @ <andrew.yi50@gmail.com>.
+I'm always prepared for a new adventure 😃, so feel free to [contact](/contact) me with interesting dev opportunities @ <andrew.yi50@gmail.com>.
 
 
 
@@ -26,10 +26,9 @@ I'm always ready for new adventures 😃, so feel free to [contact](/contact) me
 
 When I'm not coding or daydreaming about tech, I spend my time:
 
-- **Continuous Learning**: Currently, I am focusing on building my AWS knowledge and skills, recently acquiring two certifications: AWS Certified Cloud Practitioner and AWS Certified Solutions Architect (Associate).
+- **Continuous Learning**: Currently migrating some services to AWS, so I've focused some of my time on building AWS knowledge and skills: obtained AWS Certified Cloud Practitioner, AWS Certified Solutions Architect (Associate) and AWS Certified Developer (Associate). AWS Certified Solutions Architect (Professional) is up next.
 - **Riding my OneWheel skateboard**: If you're in Honolulu, you might catch me riding near the beach 🤙. Don't worry, I always wear a helmet.
 - **Hanging out with my Miniature Schnauzer**: I'll let <a href="/bagel.html" class="bagel-link">Bagel</a> know you said "hi".
-- **Losing Kaggle competitions**: <https://www.kaggle.com/gtid901938773>
 
 ## Cool Stuff I've done in the Past
 - Spent two years abroad in Hong Kong / China taking an immersive Mandarin Chinese course at CUHK's [Yale-China Chinese Language Centre](https://www.ycclc.cuhk.edu.hk/default.aspx?pg=home).
