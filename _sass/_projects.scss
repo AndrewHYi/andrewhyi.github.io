@@ -21,6 +21,11 @@
         }
     }
 
+    .project-role-title {
+        margin-top: 1.2em;
+        margin-bottom: 0.4em;
+    }
+
     .project-skills {
         font-size: 0.7rem;
 
@@ -96,6 +101,27 @@
         background: #fa4dbd;
     }
 
-    &.python {}
+    &.python {
+        background: #306998;
+    }
 
+    &.aws {
+        background: #FF9900;
+    }
+
+    &.postgresql {
+        background: #336791;
+    }
+
+    &.postgis {
+        background: #336791;
+    }
+
+    &.redis {
+        background: #D82C20;
+    }
+
+    &.openaiapi {
+        background: #10A37F;
+    }
 }

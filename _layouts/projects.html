@@ -17,8 +17,6 @@ layout: default
 				<h3>{{ project.position }}</h3>
 			</div>
 
-
-
 			<div class="project-skills">
 				<ul>
 					{% for skill in project.skills %}
@@ -35,24 +33,34 @@ layout: default
 
 			<p>{{ project.description }}</p>
 
-			<div class="ayi-project-bullets">
-				<ul>
-					{% for bullet in project.bullets %}
-						
-						{% if bullet.link %}
-							<li class="ayi-bullet">
-								<a href="{{ bullet.link }}">{{ bullet.name }}</a>: {{ bullet.description }}
-							</li>
-						{% else %}
-							<li class="ayi-bullet">
-								{{ bullet.description }}
-							</li>
-						{% endif %}
+			{% if project.roles %}
+				{% for role in project.roles %}
+					<h4 class="project-role-title">{{ role.title }}</h4>
+					<ul>
+						{% for bullet in role.bullets %}
+							<li class="ayi-bullet">{{ bullet.description }}</li>
+						{% endfor %}
+					</ul>
+				{% endfor %}
+			{% else %}
+				<div class="ayi-project-bullets">
+					<ul>
+						{% for bullet in project.bullets %}
 
+							{% if bullet.link %}
+								<li class="ayi-bullet">
+									<a href="{{ bullet.link }}">{{ bullet.name }}</a>: {{ bullet.description }}
+								</li>
+							{% else %}
+								<li class="ayi-bullet">
+									{{ bullet.description }}
+								</li>
+							{% endif %}
 
-					{% endfor %}
-				</ul>
-			</div>
+						{% endfor %}
+					</ul>
+				</div>
+			{% endif %}
 		</div>
 
 		<hr class="end-project"/>

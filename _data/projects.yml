@@ -1,9 +1,24 @@
 - name: CivicPlus
   link: https://www.civicplus.com
-  position: Lead Software Engineer / Senior Software Engineer
-  description: "Developed municipal geospatial issue management software on the web team."
-  bullets:
-    - description: "Developed company’s core SaaS products with a strong emphasis on Agile Methodologies, Test Driven Development, Pair Programming, and sustainable/clean architecture"
+  position: "Senior Software Engineer II / Lead Software Engineer / Senior Software Engineer"
+  description: "Developed municipal geospatial issue management and civic engagement software on the web team, building core SaaS products with a strong emphasis on Agile Methodologies, Test Driven Development, and sustainable architecture."
+  roles:
+    - title: "Senior Software Engineer II"
+      bullets:
+        - description: "Architected MCP server enabling autonomous chat agents to query and mutate production data through tool-based interfaces, reducing manual support workflows."
+        - description: "Designed pgvector-based semantic search pipeline for RAG-powered municipal Q&A, integrating OpenAI embeddings with PostgreSQL for sub-second retrieval across thousands of public records."
+        - description: "Drove multi-phase schema enforcement initiative across legacy Rails codebase, eliminating implicit type coercions and tightening data integrity constraints."
+        - description: "Led Ruby 3.3.5/Rails 7.2.2 upgrade across multiple services, resolving breaking changes and ensuring backward compatibility."
+        - description: "Reduced tech debt by deprecating legacy systems and migrating critical paths to modern service patterns."
+    - title: "Lead Software Engineer"
+      bullets:
+        - description: "Set technical direction for 5-engineer team building civic engagement platform, conducting code reviews, mentoring junior engineers, and driving sprint planning."
+        - description: "Defined roadmap for Rails 7.0/Ruby 3.0 migrations, coordinating cross-team dependency upgrades and establishing rollout procedures."
+        - description: "Architected data-processing pipelines for municipal GIS integrations using PostGIS and background job infrastructure."
+    - title: "Senior Software Engineer"
+      bullets:
+        - description: "Built greenfield constituent messaging system supporting email, SMS, and in-app notifications with delivery tracking and template management."
+        - description: "Developed municipal 311 issue management features including geospatial submission, routing, and resolution tracking with PostGIS-backed spatial queries."
   skills:
     - Ruby
     - Ruby on Rails
@@ -11,16 +26,26 @@
     - TypeScript
     - Ember
     - GraphQL
+    - Python
+    - AWS
+    - PostgreSQL
+    - PostGIS
+    - Redis
+    - OpenAI API
 
 - name: Riley & Grey
   link: https://www.rileygrey.com
-  position: Technical Lead / Software Engineer
+  position: "Technical Lead / Software Engineer"
   description: "Developed with and led a team of three developers and two designers on features involving website template design, back-end services development/maintenance (API, payments, DevOps), website hosting, CI/testing/deployment and bug support (Ruby on Rails, JavaScript, Heroku)."
-  bullets:
-    - description: "Architected, developed and successfully launched the company’s first physical product – a template-based paper stationery printing service, featuring in-browser stationery editor, proofing/shipping/e-commerce systems and back-end integration with paper printing provider (Ruby on Rails, ReactJS)."
-    - description: "Developed company’s core products: website hosting, domain provisioning, website templates, and RSVP/guest management."
-    - description: "Developed internal customer support tools to automate various time-consuming support related tasks."
-    - description: "Maintained, patched and upgraded all services/systems used in the company’s technology stack (Ruby, Ubuntu, PostgreSQL, Redis, etc.)."
+  roles:
+    - title: "Technical Lead"
+      bullets:
+        - description: "Architected, developed and successfully launched the company's first physical product – a template-based paper stationery printing service, featuring in-browser stationery editor, proofing/shipping/e-commerce systems and back-end integration with paper printing provider (Ruby on Rails, ReactJS)."
+    - title: "Software Engineer"
+      bullets:
+        - description: "Developed company's core products: website hosting, domain provisioning, website templates, and RSVP/guest management."
+        - description: "Developed internal customer support tools to automate various time-consuming support related tasks."
+        - description: "Maintained, patched and upgraded all services/systems used in the company's technology stack (Ruby, Ubuntu, PostgreSQL, Redis, etc.)."
   skills:
     - Ruby
     - JavaScript
@@ -28,30 +53,9 @@
     - AngularJS
     - ReactJS
 
-
-
-- name: Parcel
-  link: https://www.thisisparcel.com
-  position: Founding Engineer
-  description: "Created an integrated suite of applications including a Chrome browser extension and Web/ iOS apps focused on shopping, featuring: product
-bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, AngularJS, Selenium, Web Scraping).
-."
-  bullets:
-    - name: "Chrome Extension"
-      description: "https://chrome.google.com/webstore/detail/parcel-thisisparcelcom/pghnioflabfoipnhgjncpjeaogckoijf"
-      link: "https://chrome.google.com/webstore/detail/parcel-thisisparcelcom/pghnioflabfoipnhgjncpjeaogckoijf"
-  skills:
-    - Ruby
-    - Ruby on Rails
-    - JavaScript
-    - AngularJS
-    - Selenium
-
-
-
 - name: Friends & Family Foundry
   link: https://www.friendsfamily.co
-  position: Software Engineer
+  position: "Software Engineer / Contract Lead"
   description: "Friends & Family is a socially conscious NYC based digital foundry that helps both large and small brands build and test new digital ideas extremely quickly, enabling companies to stay ahead of a rapidly changing digital world while empowering them toward a more innovative culture."
   bullets:
     - name: "Buildbook"
@@ -70,60 +74,3 @@ bookmarking, website scraping, price tracking and budgeting (Ruby on Rails, Angu
     - AngularJS
     - ReactJS
     - ReactNative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- name: Lunar Lander (OpenAI Gym)
-  link: https://gitlab.com/AndrewHYi/rl-lunarlander-showcase
-  position: CS7642 Reinforcement Learning
-  blurb: "(Prospective Employers: This is the truncated, redacted version of the project. Please contact me at andrew.yi50@gmail.com for full project report and code.)"
-  description: "Trained and analyzed agents using the Double Q-learning algorithm and soft target update rule (Python, Tensorflow/Keras, OpenAI Gym)"
-  skills:
-    - Python
-    - TensorFlow
-    - Keras
-    - OpenAI Gym
-
-
-
-
-
-- name: Sleep Stage Classification
-  link: https://gitlab.com/AndrewHYi/bd4h-sleepstage-showcase
-  position: CS6250 Big Data for Health Informatics
-  blurb: "(Prospective Employers: This is the truncated, redacted version of the project. Please contact me at andrew.yi50@gmail.com for full project report and code.)"
-  description: "Implemented and trained CNNs for single-channel EEG sleep stage classification using the National Sleep Research Institute’s Sleep Heart Health Study datasets."
-  skills:
-    - Python
-    - Tensorflow
-    - Keras
-    - Numpy
-    - Scikit-learn
-    - Hadoop
-
-
-
-- name: Stereo Correspondence
-  link: https://gitlab.com/AndrewHYi/cv-stereo-showcase
-  position: CS6476 Computer Vision
-  blurb: "(Prospective Employers: This is the truncated, redacted version of the project. Please contact me at andrew.yi50@gmail.com for full project report and code.)"
-  description: "Implemented and analyzed several window-based stereo correspondence techniques including the sums of squared differences measure and loopy belief propagation (Markov random fields) using the Middlebury Stereo Datasets."
-  skills:
-    - Python
-    - Numpy
