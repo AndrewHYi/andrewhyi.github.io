@@ -10,9 +10,9 @@ Hey there, I'm Andrew and it's great to meet you!
 
 I am a graduate of Syracuse University (BS in Economics) and Georgia Tech (MS in Computer Science). Since 2013, I have worked in various capacities as a software engineer and team lead with companies of varying sizes, building web and mobile applications (with a focus on Ruby and JavaScript).
 
-Currently I'm part of an amazing team as Lead Software Engineer at [CivicPlus](https://www.civicplus.com), working on a geospatial SaaS platform with the [SeeClickFix](https://www.seeclickfix.com) team.
+Currently I'm part of an amazing team as Senior Software Engineer at [CivicPlus](https://www.civicplus.com), building agentic AI systems and geospatial civic engagement software with the [SeeClickFix](https://www.seeclickfix.com) team.
 
-In the past, I've served as Technical Lead at [Riley & Grey](https://www.rileygrey.com), where I worked with an awesome group of folks dedicated to helping people build beautiful, custom wedding websites.
+In the past, I've served as Software Engineer and Technical Lead at [Riley & Grey](https://www.rileygrey.com), where I worked with an awesome group of folks dedicated to helping people build beautiful, custom wedding websites.
 
 I have frequently collaborated with the amazing folks at [Friends & Family Foundry](https://www.friendsfamily.co), where I have worked on building web/mobile applications for various clients, most recently developing applications for [Starbucks](https://www.starbucks.com), [Ivy](https://www.ivy.com) and [BuildBook](https://www.buildbook.co).
 
@@ -26,9 +26,8 @@ I'm always prepared for a new adventure 😃, so feel free to [contact](/contact
 
 When I'm not coding or daydreaming about tech, I spend my time:
 
-- **Continuous Learning**: Currently migrating some services to AWS, so I've focused some of my time on building AWS knowledge and skills: obtained AWS Certified Cloud Practitioner, AWS Certified Solutions Architect (Associate) and AWS Certified Developer (Associate). AWS Certified Solutions Architect (Professional) is up next.
+- **Continuous Learning**: AWS Certified Solutions Architect (Associate) and AWS Certified Developer (Associate). Currently exploring agentic AI patterns with MCP, OpenAI APIs, and local LLM tooling.
 - **Riding my OneWheel skateboard**: If you're in Honolulu, you might catch me riding near the beach 🤙. Don't worry, I always wear a helmet.
-- **Hanging out with my Miniature Schnauzer**: I'll let <a href="/bagel.html" class="bagel-link">Bagel</a> know you said "hi".
 
 ## Cool Stuff I've done in the Past
 - Spent two years abroad in Hong Kong / China taking an immersive Mandarin Chinese course at CUHK's [Yale-China Chinese Language Centre](https://www.ycclc.cuhk.edu.hk/default.aspx?pg=home).
