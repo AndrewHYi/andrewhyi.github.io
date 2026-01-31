@@ -1,6 +1,11 @@
 source "https://rubygems.org"
 
-gem 'github-pages', groups: :jekyll_plugins
+gem "jekyll", "~> 3.10"
+gem "base64"
+gem "bigdecimal"
+gem "csv"
+gem "kramdown-parser-gfm"
+gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
